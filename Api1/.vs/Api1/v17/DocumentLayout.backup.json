@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7844B278-2D7F-45A3-9D19-79A7EC93E726}|Api1\\Api1.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api1\\controllers\\juegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7844B278-2D7F-45A3-9D19-79A7EC93E726}|Api1\\Api1.csproj|solutionrelative:api1\\controllers\\juegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameGenreDB/True/SqlTable/dbo.Games.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7844B278-2D7F-45A3-9D19-79A7EC93E726}|Api1\\Api1.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api1\\api1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7844B278-2D7F-45A3-9D19-79A7EC93E726}|Api1\\Api1.csproj|solutionrelative:api1\\api1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7844B278-2D7F-45A3-9D19-79A7EC93E726}|Api1\\Api1.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api1\\models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7844B278-2D7F-45A3-9D19-79A7EC93E726}|Api1\\Api1.csproj|solutionrelative:api1\\models\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Migrations\\20241121140252_Initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Api2\\Migrations\\20241121140252_Initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mensa\\Documents\\DSW\\Api1\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|c:\\users\\mensa\\documents\\dsw\\api1\\api2\\migrations\\20241125131043_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203976AB-4FA0-4F72-89F0-0623B5AC23A1}|Api2\\Api2.csproj|solutionrelative:api2\\migrations\\20241125131043_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241125131043_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Migrations\\20241125131043_inicial.cs",
+              "RelativeDocumentMoniker": "Api2\\Migrations\\20241125131043_inicial.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Migrations\\20241125131043_inicial.cs",
+              "RelativeToolTip": "Api2\\Migrations\\20241125131043_inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:10:43.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Api2\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Api2\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:46:45.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Api2\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Api2\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:45:45.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Api2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:44:53.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Games.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameGenreDB/True/SqlTable/dbo.Games.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GameGenreDB/True/SqlTable/dbo.Games.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-25T09:56:13.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Api2\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Api2\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:56:07.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Api1.csproj",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api1\\Api1.csproj",
+              "RelativeDocumentMoniker": "Api1\\Api1.csproj",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api1\\Api1.csproj",
+              "RelativeToolTip": "Api1\\Api1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T08:38:23.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Api2\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Api2\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:16:30.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Api2\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Api2\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwGEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:15:39.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241121140252_Initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Migrations\\20241121140252_Initialcreate.cs",
+              "RelativeDocumentMoniker": "Api2\\Migrations\\20241121140252_Initialcreate.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Migrations\\20241121140252_Initialcreate.cs",
+              "RelativeToolTip": "Api2\\Migrations\\20241121140252_Initialcreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:02:53.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Api2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Api2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:29:16.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Api2\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Models\\Genre.cs",
+              "RelativeToolTip": "Api2\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:28:05.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Api2\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Models\\Game.cs",
+              "RelativeToolTip": "Api2\\Models\\Game.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:27:18.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\appsettings.json",
+              "RelativeDocumentMoniker": "Api2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\appsettings.json",
+              "RelativeToolTip": "Api2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T08:55:26.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Program.cs",
+              "RelativeDocumentMoniker": "Api2\\Program.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api2\\Program.cs",
+              "RelativeToolTip": "Api2\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:54:55.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-20T08:46:53.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JuegosController.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api1\\Controllers\\JuegosController.cs",
+              "RelativeDocumentMoniker": "Api1\\Controllers\\JuegosController.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api1\\Controllers\\JuegosController.cs",
+              "RelativeToolTip": "Api1\\Controllers\\JuegosController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:17:54.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api1\\Models\\Juego.cs",
+              "RelativeDocumentMoniker": "Api1\\Models\\Juego.cs",
+              "ToolTip": "C:\\Users\\Mensa\\Documents\\DSW\\Api1\\Api1\\Models\\Juego.cs",
+              "RelativeToolTip": "Api1\\Models\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:13:17.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
